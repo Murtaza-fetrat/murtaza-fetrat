@@ -17,15 +17,16 @@ I'm a passionate and detail-oriented **Full-Stack Developer** with over **5 year
 
 💡 I enjoy solving complex business problems with clean architecture and best practices.  
 ⚙️ I specialize in **.NET (C#)** on the backend and **React + TypeScript** on the frontend.  
-🌐 I’m also experienced in building **portable desktop apps** using **Tauri + .NET API**.
+🖥️ I’m also experienced in **Tauri + .NET** for building secure, portable desktop applications.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 🧠 Core Languages & Frameworks
-- **Backend:** `.NET 8`, `ASP.NET Core`, `Entity Framework Core`, `RESTful APIs`
-- **Frontend:** `React`, `Next.js`, `TypeScript`, `Tailwind CSS`
+- **Backend:** `.NET 8`, `ASP.NET Core`, `Entity Framework Core`, `REST APIs`, `Python`
+- **Frontend:** `React`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Bootstrap`, `jQuery`, `AJAX`
+- **Markup & Styling:** `HTML5`, `CSS3`, `Responsive Design (Mobile-First)`
 - **Desktop:** `Tauri`, `.NET Web API`
 - **Realtime:** `SignalR`
 
@@ -33,7 +34,7 @@ I'm a passionate and detail-oriented **Full-Stack Developer** with over **5 year
 - `SQL Server`, `PostgreSQL`, `SQLite`
 
 ### 🔧 Tools & DevOps
-- `Git`, `GitHub`, `Docker`, `CI/CD`, `Postman`, `Fiddler`, `Swagger`, `Trello`, `Jira`
+- `Git`, `GitHub`, `Docker`, `Postman`, `Swagger`, `CI/CD`, `Fiddler`, `Trello`, `Jira`
 
 ### 🧩 Architecture & Patterns
 - `Clean Architecture`, `Repository Pattern`, `DDD`, `CQRS`, `SOLID Principles`
@@ -44,9 +45,6 @@ I'm a passionate and detail-oriented **Full-Stack Developer** with over **5 year
 
 ### 🔐 [Device Login System (SignalR)](https://github.com/yourusername/device-auth-signalr)
 > Real-time device login system using SignalR and .NET 8 for secure IoT authentication.
-
-### 📊 [Accounting System](https://github.com/murtaza-fetrat/accounting-system)
-> A professional double-entry accounting system featuring loans, prepayments, financial year closure, and multi-currency support.
 
 ### 🛒 [Marketplace UI (Electricity)](https://github.com/murtaza-fetrat/marketplace-ui)
 > Stylish marketplace interface built with React + Tailwind, featuring custom search, filters, and modern UI design.
@@ -67,7 +65,3 @@ I'm a passionate and detail-oriented **Full-Stack Developer** with over **5 year
 ---
 
 > ⚡ **Open to freelance projects, remote opportunities, and collaborations. Let’s build something impactful together!**
-
----
-
-<!-- Feel free to copy, modify and deploy -->
