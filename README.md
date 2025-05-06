@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full-Stack Developer | .NET, React, TypeScript | 5+ Years Experience</h3>
 
 <p align="center">
-  <a href="mailto:murtazafetrat@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:murtazafetrat0012@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://murtaza-fetrat.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/murtaza-fetrat"><img src="https://img.shields.io/github/followers/murtaza-fetrat?label=GitHub&style=for-the-badge"/></a>
 </p>
@@ -24,7 +24,7 @@ I'm a passionate and detail-oriented **Full-Stack Developer** with over **5 year
 ## 🚀 Tech Stack
 
 ### 🧠 Core Languages & Frameworks
-- **Backend:** `.NET 8`, `ASP.NET Core`, `Entity Framework Core`, `REST APIs`, `Python`
+- **Backend:** `.NET`, `ASP.NET Core`, `Entity Framework Core`, `REST APIs`, `Python`
 - **Frontend:** `React`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Bootstrap`, `jQuery`, `AJAX`
 - **Markup & Styling:** `HTML5`, `CSS3`, `Responsive Design (Mobile-First)`
 - **Desktop:** `Tauri`, `.NET Web API`
@@ -56,7 +56,7 @@ I'm a passionate and detail-oriented **Full-Stack Developer** with over **5 year
 
 ## 📬 Contact
 
-- 📧 **Email:** [murtazafetrat@gmail.com](mailto:murtazafetrat@gmail.com)  
+- 📧 **Email:** [murtazafetrat0012@gmail.com](mailto:murtazafetrat0012@gmail.com)  
 - 🌐 **Portfolio:** [murtaza-fetrat.github.io/portfolio](https://murtaza-fetrat.github.io/portfolio)  
 - 🧳 **Freelance Profiles:**  
   - [Fiverr](https://yourfiverrprofilelink)  
